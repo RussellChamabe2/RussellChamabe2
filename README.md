@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Russell Chamabe</h1>
-👨🏿‍💻Computer Science major sharing about my journey and what I like.
+👨🏿‍💻Computer Science major sharing about my journey and what I like.<br/>
 <br/>
 👨🏿‍🎓I am Student studying Computer Science at Aston University, United Kingdom. I did a Foundation year at Birmingham City University doing- Computer Science as well.<br/>
 <br/>
