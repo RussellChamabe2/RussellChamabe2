@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Russell</h1>
 👨🏿‍💻Computer Science major sharing about my journey and what I like.
-👨🏿‍🎓I am Student studying Computer Science at Aston University, United Kingdom. I did a Foundation year at Birmingham City University doing- Computer Science as well.
-🔭I’m currently working on: Small projects that can benefit me and other people.
-⚡ Fun fact: I like playing games, mainly Story based games, and going to the gym.
+👨🏿‍🎓I am Student studying Computer Science at Aston University, United Kingdom. I did a Foundation year at Birmingham City University doing- Computer Science as well.<br/>
+🔭I’m currently working on: Small projects that can benefit me and other people.<br/>
+⚡ Fun fact: I like playing games, mainly Story based games, and going to the gym.<br/>
 📫 How to reach me **chamaberussell@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
